@@ -1,0 +1,180 @@
+
+.logo{	
+    height: 25px;
+    margin-right: 20px;
+    position: relative !important;
+    bottom: 190px;
+    width: 25px;
+}
+.header #header{
+	width:100%;
+	height:185px;
+}
+nav ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;   
+}
+
+nav li {
+    float: left;
+	position:relative;
+	left:15%;
+	bottom:80px;
+}
+nav a {
+    float: left;
+    color: #eee;
+    margin: 0 5px;
+    padding: 3px;
+    text-decoration: none;
+    border: 1px solid #831608;
+    font: bold 14px Arial, Helvetica;   
+    background-color: #831608;
+    background-image: linear-gradient(#bb413b, #831608);
+    border-radius: 5px;
+    text-shadow: 0 -1px 0 rgba(0,0,0,.8); 
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3), 0 3px 0 rgba(0, 0, 0, 0.7), 0 2px 2px rgba(0, 0, 0, 0.5), 0 1px 0 rgba(255, 255, 255, 0.5) inset; 
+}
+
+nav a:hover {
+    background-color: #bb413b;
+    background-image: linear-gradient(#831608, #bb413b);
+}
+
+nav a:active {
+    background: #bb413b;
+    position: relative;
+    top: 2px;    
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.7) inset; 
+}
+nav span {
+    border: 1px dashed #eba1a3;
+    display: inline-block;
+    padding: 4px 15px;
+    cursor: pointer;    
+    background-color: #bb413b;
+    background-image: linear-gradient(#d4463c, #aa2618);
+}
+
+nav a:hover span {   
+    background-color: #bb413b;
+    background-image: linear-gradient(#aa2618, #d4463c);
+}
+.slide {
+    bottom: 52px;
+    position: relative;
+}
+.container {
+    margin-bottom: 57px;
+    margin-right: 0;
+    margin-top: 0;
+}
+.footer #footer {
+    position: relative;
+    top: 65px;
+    width: 100%;
+	height:140px;
+}
+ h2 {
+    bottom: 70px;
+    color: white;
+    font-size: 29px;
+    margin-left: 37%;
+    position: relative;
+	font-size:25px;
+}
+.alogin {
+    float: right;
+    margin-right: 75px;
+    width: 28%;
+}
+.clogin {
+    float: right;
+    margin-right: 75px;
+    width: 28%;
+}
+.glogin {
+    float: right;
+    margin-right: 75px;
+    width: 28%;
+}
+.gsign {
+    float: right;
+    margin-right: 75px;
+    width: 28%;
+}
+.csign {
+    float: right;
+    margin-right: 75px;
+    width: 28%;
+}
+.edit4
+{
+	float: right;
+    margin-right: 75px;
+    width: 28%;
+}
+.contact
+{
+	float: right;
+    margin-right: 400px;
+    width: 28%;
+}
+.nav1 ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;   
+}
+
+.nav1 li {
+    float: left;
+	position:relative;
+	left:15%;
+	bottom:125px;
+}
+.nav1 a {
+    float: left;
+    color: #eee;
+    margin: 0 5px;
+    padding: 3px;
+    text-decoration: none;
+    border: 1px solid #831608;
+    font: bold 14px Arial, Helvetica;   
+    background-color: #831608;
+    background-image: linear-gradient(#bb413b, #831608);
+    border-radius: 5px;
+    text-shadow: 0 -1px 0 rgba(0,0,0,.8); 
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3), 0 3px 0 rgba(0, 0, 0, 0.7), 0 2px 2px rgba(0, 0, 0, 0.5), 0 1px 0 rgba(255, 255, 255, 0.5) inset; 
+}
+
+.nav1 a:hover {
+    background-color: #bb413b;
+    background-image: linear-gradient(#831608, #bb413b);
+}
+
+.nav1 a:active {
+    background: #bb413b;
+    position: relative;
+    top: 2px;    
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.7) inset; 
+}
+.nav1 span {
+    border: 1px dashed #eba1a3;
+    display: inline-block;
+    padding: 4px 15px;
+    cursor: pointer;    
+    background-color: #bb413b;
+    background-image: linear-gradient(#d4463c, #aa2618);
+}
+
+.nav1 a:hover span {   
+    background-color: #bb413b;
+    background-image: linear-gradient(#aa2618, #d4463c);
+}
+.footer2 #footer {
+    position: relative;
+    top: 242px;
+    width: 100%;
+	height:140px;
+}
